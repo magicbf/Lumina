@@ -1,0 +1,7 @@
+PyQt6>=6.5
+# Extra image formats (AVIF, JPEG 2000, PSD, QOI, DDS, ...).  Optional: without
+# it Lumina still opens everything Qt can (PNG, JPEG, WebP, GIF, TIFF, SVG, ...).
+Pillow>=11.3
+# HEIC / HEIF (iPhone photos) and JPEG XL.  Optional as well.
+pillow-heif>=0.18
+pillow-jxl-plugin>=1.3
